@@ -1,5 +1,6 @@
 {
   "name": "recompose-build",
+  "version": "0.20.3",
   "private": true,
   "author": "Andrew Clark <acdlite@me.com>",
   "repository": {
